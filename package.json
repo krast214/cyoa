@@ -2,14 +2,13 @@
     "name": "cyoa",
     "version": "1.0.0",
     "description": "Basic web app for hosting rooms",
-    "main": "server.js", // Replace "server.js" with the entry point of your server file if applicable
+    "main": "server.js",
     "scripts": {
-      "start": "node server.js" // Replace "server.js" with the entry point of your server file if applicable
+      "start": "node server.js"
     },
     "author": "Khalid R",
-    "license": "MIT", // Choose the appropriate license for your project
+    "license": "MIT",
     "dependencies": {
-      // Add any dependencies required for your project here
     }
   }
   
